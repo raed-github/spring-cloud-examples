@@ -112,7 +112,7 @@ docker run -d -p 9411:9411 openzipkin/zipkin
 
 ---
 
-You and build and run the project using maven
+You can build and run the project using maven
 
 ##### Maven
 
